@@ -1,2 +1,2 @@
-# GregTech-Ages-Of-Space
-temp lol
+# GregTech Ages Of Space
+WIP
