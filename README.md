@@ -1,2 +1,2 @@
 # GregTech Ages Of Space
-WIP
+A work in progress GregTech modpack made by the finest devs at shitters incorprated.
