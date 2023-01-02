@@ -130,7 +130,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "Â§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
@@ -143,9 +143,9 @@
         },
  "fa":
         {
-            "text" : "",
-            "posX" : -160,
-            "posY" : -50,
+            "text" : "Title Music by Lena Raine",
+            "posX" : -125,
+            "posY" : -20,
             "color" : -1,
             "alignment" : "bottom_right"
         }
