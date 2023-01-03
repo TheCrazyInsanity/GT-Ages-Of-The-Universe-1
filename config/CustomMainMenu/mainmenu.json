@@ -28,6 +28,8 @@
         {
             "text" : "menu.singleplayer",
             "hoverText" : "So alone...",
+            "normalTextColor": 8421504,
+            "hoverTextColor": 7848940,
             "texture": "mainmenu:textures/button.png",
             "posX" : -200,
             "posY" :  28,
@@ -44,6 +46,8 @@
         {
             "text" : "menu.multiplayer",
             "hoverText" : "Join us.",
+            "normalTextColor": 8421504,
+            "hoverTextColor": 7848940,
             "texture": "mainmenu:textures/button.png",
             "posX" : -200,
             "posY" :  52,
@@ -89,6 +93,8 @@
         {
             "text" : "fml.menu.mods",
             "texture": "mainmenu:textures/button.png",
+            "normalTextColor": 8421504,
+            "hoverTextColor": 7848940,
             "posX" : -200,
             "posY" : 76,
             "width" : 100,
@@ -104,6 +110,8 @@
         {
             "text" : "Settings",
             "texture": "mainmenu:textures/button.png",
+            "normalTextColor": 8421504,
+            "hoverTextColor": 7848940,
             "posX" : -200,    
             "posY" : 100,
             "width" : 100,
@@ -119,6 +127,8 @@
         {
             "text" : "menu.quit",
             "hoverText" : "Dont leave us! D:",
+            "normalTextColor": 8421504,
+            "hoverTextColor": 7848940,
             "texture": "mainmenu:textures/button.png",
             "posX" : -200,
             "posY" : 125,
@@ -164,7 +174,7 @@
         "mojang":
         {
             "text" : "Copyright Mojang AB. Do not distribute!",
-            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "hoverText" : "Â§nCopyright Mojang AB. Do not distribute!",
             "posX" : -197,
             "posY" : -10,
             "color" : -1,
