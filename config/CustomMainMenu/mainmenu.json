@@ -126,7 +126,7 @@
         "quit":
         {
             "text" : "menu.quit",
-            "hoverText" : "Dont leave us! D:",
+            "hoverText" : "Dont leave! D:",
             "normalTextColor": 8421504,
             "hoverTextColor": 7848940,
             "texture": "mainmenu:textures/button.png",
