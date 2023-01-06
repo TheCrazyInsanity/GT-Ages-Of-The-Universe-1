@@ -1,4 +1,11 @@
-![Discord](https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord)
+<html>
+<p align=center>
+    <a href="https://discord.gg/h3MCeT9mBA">
+  <img alt="Discord" src="https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord">
+</p>
+</html>
+
+
 # GregTech Ages Of The Universe
 A work in progress GregTech modpack made by the finest devs at Shitters Incorprated.<br />
 This is a development version of the pack do not use, It may contain missing/non working mods <br />
