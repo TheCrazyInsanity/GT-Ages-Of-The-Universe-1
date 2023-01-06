@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord)](discord.gg/h3MCeT9mBA)
+![Discord](https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord)
 [![Mod Downloads(Test)](http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-space)
 
 # GregTech Ages Of The Universe
