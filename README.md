@@ -1,10 +1,5 @@
-<html>
-<p align=center>
-    <a href="https://discord.gg/h3MCeT9mBA">
-  <img alt="Discord" src="https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord">
-</p>
-</html>
-
+[![Discord](https://img.shields.io/discord/1060992115259232436?color=%235865F2&label=Discord&logo=discord)](discord.gg/h3MCeT9mBA)
+[![Mod Downloads(Test)](http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-space)
 
 # GregTech Ages Of The Universe
 A work in progress GregTech modpack made by the finest devs at Shitters Incorprated.<br />
