@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/1060992115259232436?color=blue&label=Discord%20&logo=discord)
+[![Discord](https://img.shields.io/discord/1060992115259232436?color=blue&label=Discord%20&logo=discord)](https://discord.gg/vtAbEWNbDx)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Discord&logo=discord&style=social&url=https%3A%2F%2Fdiscord.gg%2FvtAbEWNbDx)
 ![Discord](https://discord.gg/vtAbEWNbDx)
 [![Mod Downloads(Test)](http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-space)
