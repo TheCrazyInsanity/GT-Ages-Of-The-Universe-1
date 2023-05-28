@@ -16,9 +16,3 @@ You know deep down that this will not be an easy task, and you'll have to utilis
 After you've completed your ship and thrived in space. You'll come to find that you've lost touch with humanity. And feel like exploring the universe itself, nothing would be out of reach, galaxies, planets, stars. All in the palm of your hand. Nothing is out of reach, you would go wherever life would take you. You'd do what humanity would've thought was impossible. You could have it all, riches, resources, tools of destruction. Anything that the universe hides can be yours.
 
 # Credits
-ZeldaLord - Pack Owner <br/>
-Pixelated Face - Pack Developer <br/>
-MeCatt - Textures <br/>
-UnsignedLongInt - Contributer <br/>
-Kuri - Contributer <br/>
-TheCrazyInsanity - English "Teacher" <br/>
