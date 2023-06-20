@@ -4,9 +4,8 @@
 
 # GregTech Ages Of The Universe
 
-A work in progress GregTech modpack made by the finest devs at Shitters Incorprated.<br />
+A work in progress GregTech modpack<br />
 This is a development version of the pack do not use, It may contain missing/non working mods <br /><br />
-(ALL SUBJECT TO CHANGE IN THE VERY NEAR FUTURE)<br />
 
 # Description 
 
