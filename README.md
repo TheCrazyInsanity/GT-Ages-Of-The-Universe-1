@@ -1,6 +1,6 @@
-(https://img.shields.io/github/last-commit/ZeldaLord1/GT-Ages-Of-The-Universe/main)
-(https://img.shields.io/discord/1060992115259232436?color=blue&label=Discord%20&logo=discord)](https://discord.gg/UZjwyX9dMf)
-(http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-space)
+![GitHub last commit](https://img.shields.io/github/last-commit/ZeldaLord1/GT-Ages-Of-The-Universe?logo=github)
+[![Discord](https://img.shields.io/discord/1060992115259232436?color=blue&label=Discord%20&logo=discord)](https://discord.gg/UZjwyX9dMf)
+[![Mod Downloads(Test)](http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-the-universe)
 # GregTech Ages Of The Universe
 
 A work in progress GregTech modpack<br />
