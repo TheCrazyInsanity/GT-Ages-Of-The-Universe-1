@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "GregTech Ages Of The Universe",
-  "version": "",
-  "author": "",
+  "version": "0.0.1",
+  "author": "ZeldaLord, PixelatedFace",
   "files": [
     {
       "projectID": 229218,
