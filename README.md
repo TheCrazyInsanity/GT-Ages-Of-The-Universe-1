@@ -1,12 +1,7 @@
-[![Discord](https://img.shields.io/discord/1060992115259232436?color=blue&label=Discord%20&logo=discord)](https://discord.gg/UZjwyX9dMf)
-[![Mod Downloads(Test)](http://cf.way2muchnoise.eu/full_784727_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/gregtech-ages-of-space)
-![GitHub last commit](https://img.shields.io/github/last-commit/ZeldaLord1/GT-Ages-Of-The-Universe?logo=github)
 
 # GregTech Ages Of The Universe
 
 A work in progress GregTech modpack<br />
-This is a development version of the pack do not use, It may contain missing/non working mods <br /><br />
-
 # Description 
 
 The year is 2157, you were sent on a mission to explore planet X83AZ, the planet had been deemed as possibly habitable, with an atmosphere closely resembling Earth's very own, and even housing small amounts of water. You were sent on this mission for "the greater good of humanity". 
